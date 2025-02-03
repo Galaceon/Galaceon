@@ -6,18 +6,27 @@
 💞️ I’m looking to collaborate on front-end projects that challenge my creativity and technical skills, as well as opportunities to contribute to full-stack development or web design initiatives.
 
 📫 How to reach me:
+
     Email: antoniogarcialtr@gmail.com
+    
     Discord: galaceon
+    
     Instagram: @galacx_
+    
     
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m not just a developer—I’m also a UX/UI design enthusiast! I’ve previously studied web design principles, which helps me bridge the gap between aesthetics and functionality in my projects.
 
 Skills Overview:
+
         Front-End Development: HTML, CSS, JavaScript
+        
         Design & Prototyping: UX/UI Design, Figma, Photoshop
+        
         Tools & Environments: Visual Studio Code, Git (Version Control)
+        
         Currently Learning: SQL, mySQL, PHP
+        
         Future Goals: React, TypeScript, Tailwind, Django, MongoDB, MySQL
 
 
