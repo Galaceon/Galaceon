@@ -26,7 +26,7 @@ Skills Overview:
         
         Tools & Environments: Visual Studio Code, Git (Version Control)
         
-        Currently Learning: SQL, mySQL, PHP
+        Currently Learning: SQL, PHP
         
         Future Goals: React, TypeScript, Tailwind, Django, MongoDB, MySQL
 
