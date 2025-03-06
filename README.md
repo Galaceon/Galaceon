@@ -16,8 +16,6 @@
     
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I’m not just a developer—I’m also a UX/UI design enthusiast! I’ve previously studied web design principles, which helps me bridge the gap between aesthetics and functionality in my projects.
-
 Skills Overview:
 
         Front-End Development: HTML, CSS, JavaScript
